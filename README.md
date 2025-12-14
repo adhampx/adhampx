@@ -158,13 +158,37 @@ currently:
 <!-- Featured Projects -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
+<!-- Phoenix - Custom Card (Private Repo) -->
 <div align="center">
-  <a href="https://github.com/adhampx/Phoenix">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhampx&repo=Phoenix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
-  </a>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Phoenix</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Private-Repository-red?style=flat-square" />
+</p>
+<p align="center">
+  <strong>Multi-Agent AI Desktop Application</strong><br/>
+  Orchestrate AI agent councils, manage knowledge bases, and integrate external services
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-39-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=flat-square&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">PQC-Secure-ChatApp</h3>
+<div align="center">
   <a href="https://github.com/adhampx/PQC-Secure-ChatApp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhampx&repo=PQC-Secure-ChatApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhampx&repo=PQC-Secure-ChatApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7" />
   </a>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
