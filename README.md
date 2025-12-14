@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adhampx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adhampx?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <a href="https://linkedin.com/in/adhampx">
+  <a href="(https://www.linkedin.com/in/adham-rashed)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -235,7 +235,7 @@ currently:
   <a href="mailto:adhampx@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
   </a>
-  <a href="https://linkedin.com/in/adhampx">
+  <a href="(https://www.linkedin.com/in/adham-rashed)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/adhampx">
